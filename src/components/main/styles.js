@@ -15,7 +15,7 @@ const StyledForm = styled.form`
 		position: absolute;
 		width: 20px;
 		height: 20px;
-		background-image: url(/public/search.svg);
+		background-image: url(/search.svg);
 		background-size: 100%;
 		top: 1rem;
 		left: 1rem;
