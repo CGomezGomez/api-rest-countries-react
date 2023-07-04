@@ -77,7 +77,6 @@ const StyledImg = styled.img`
 
 	margin-bottom: 1.5rem;
 
-	
 `
 
 const StyledName = styled.h3`
@@ -97,7 +96,7 @@ const StyledP = styled.p`
 
 const StyledSpan = styled.span`
 
-		font-weight: 200;
+	font-weight: 200;
 
 `
 
